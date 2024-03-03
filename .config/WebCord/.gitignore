@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Themes/
+!Themes.*
+!.config.json
