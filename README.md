@@ -1,4 +1,4 @@
-# Dot-files
+# Dot-Files
 
 My configuration files for various Linux applications.
 
