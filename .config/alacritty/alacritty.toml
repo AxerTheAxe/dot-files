@@ -1,0 +1,18 @@
+# Import theme
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+
+[[keyboard.bindings]]
+chars = "\u001B[13;2u"
+mods = "Shift"
+key = "Return"
+
+[[keyboard.bindings]]
+chars = "\u001B[13;5u"
+mods = "Control"
+key = "Return"
+
+[font]
+size = 14
+
+[font.normal]
+family = "RobotoMono Nerd Font"
