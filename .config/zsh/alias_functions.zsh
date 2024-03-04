@@ -6,7 +6,7 @@ mkcd() { mkdir -p "$@" && cd "$@" }
 
 rm() { /usr/bin/rm -rf "$@" }
 
-ls() { /usr/bin/ls --color "$@" }
+ls() { /usr/bin/ls --color=auto "$@" }
 
 grep() { /usr/bin/grep --color=auto "$@" }
 
