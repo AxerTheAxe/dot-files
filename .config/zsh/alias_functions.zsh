@@ -4,6 +4,8 @@ cd() { __zoxide_z "$@" }
 mkdir() { /usr/bin/mkdir -p "$@" }
 mkcd() { mkdir -p "$@" && cd "$@" }
 
+cp() { /usr/bin/cp -r "$@" }
+
 rm() { /usr/bin/rm -rf "$@" }
 
 ls() { /usr/bin/ls --color=auto "$@" }
