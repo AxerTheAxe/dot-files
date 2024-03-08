@@ -63,4 +63,8 @@ vim.keymap.set("n", "<leader>t", "<cmd>term<CR>")
 -- Exit terminal mode
 vim.keymap.set("t", "<Esc>", "<C-\\><C-n>")
 
+-- Disable macors
+vim.keymap.set("n", "q", "<nop>")
+vim.keymap.set("n", "Q", "<nop>")
+
 return bindings
