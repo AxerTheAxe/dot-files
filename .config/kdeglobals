@@ -120,6 +120,7 @@ ForegroundVisited=203, 166, 247
 
 [General]
 ColorSchemeHash=634727ad9c011978ec194b521cf03b34d83232e1
+TerminalApplication=alacritty
 XftHintStyle=hintslight
 XftSubPixel=rgb
 fixed=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
@@ -127,7 +128,6 @@ font=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 menuFont=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 smallestReadableFont=RobotoMono Nerd Font Mono [GOOG],9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 toolBarFont=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
-TerminalApplication=alacritty
 
 [Icons]
 Theme=breeze-dark

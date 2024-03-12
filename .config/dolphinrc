@@ -1,0 +1,32 @@
+[ContextMenu]
+ShowAddToPlaces=false
+ShowCopyToOtherSplitView=false
+ShowMoveToOtherSplitView=false
+ShowOpenInSplitView=false
+
+[General]
+CloseActiveSplitView=false
+ConfirmClosingMultipleTabs=false
+ConfirmClosingTerminalRunningProgram=false
+OpenNewTabAfterLastTab=true
+RememberOpenedTabs=false
+ShowSpaceInfo=false
+ShowStatusBar=false
+ShowZoomSlider=false
+Version=202
+ViewPropsTimestamp=2024,3,12,0,41,50.016
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmOpenManyFolders=false
+ConfirmOpenManyTerminals=false
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail
