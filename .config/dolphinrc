@@ -1,8 +1,12 @@
+MenuBar=Disabled
+
 [ContextMenu]
 ShowAddToPlaces=false
 ShowCopyToOtherSplitView=false
 ShowMoveToOtherSplitView=false
 ShowOpenInSplitView=false
+ShowSortBy=false
+ShowViewMode=false
 
 [General]
 CloseActiveSplitView=false
