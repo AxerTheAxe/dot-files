@@ -1,0 +1,148 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=30, 30, 46
+ColorAmount=0.30000000000000004
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=
+IntensityAmount=-1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=30, 30, 46
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=245,194,231
+BackgroundNormal=49, 50, 68
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[Colors:Complementary]
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=24, 24, 37
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[Colors:Header]
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=24, 24, 37
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[Colors:Selection]
+BackgroundAlternate=245,194,231
+BackgroundNormal=245,194,231
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=24, 24, 37
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=17, 17, 27
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[Colors:Tooltip]
+BackgroundAlternate=27,25,35
+BackgroundNormal=30, 30, 46
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[Colors:View]
+BackgroundAlternate=24, 24, 37
+BackgroundNormal=30, 30, 46
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[Colors:Window]
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=24, 24, 37
+DecorationFocus=245,194,231
+DecorationHover=49, 50, 68
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=245,194,231
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
+
+[General]
+ColorSchemeHash=634727ad9c011978ec194b521cf03b34d83232e1
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=RobotoMono Nerd Font Mono [GOOG],9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+TerminalApplication=alacritty
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+ShowDeleteCommand=true
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=30,30,46
+activeBlend=205,214,244
+activeFont=RobotoMono Nerd Font Mono [GOOG],11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeForeground=205,214,244
+inactiveBackground=17,17,27
+inactiveBlend=166,173,200
+inactiveForeground=166,173,200
