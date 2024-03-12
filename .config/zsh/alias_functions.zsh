@@ -12,4 +12,4 @@ ls() { /usr/bin/ls --color=auto "$@" }
 
 grep() { /usr/bin/grep --color=auto "$@" }
 
-nohup() { /usr/bin/nohup "$@" > "$HOME"/.cache/nohup.out > /dev/null 2>&1}
+nohup() { /usr/bin/nohup "$@" > "$HOME"/.cache/nohup.out > /dev/null 2>&1 }
