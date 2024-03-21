@@ -23,7 +23,7 @@ require("catppuccin").setup({
 
             -- Telescope
             TelescopeMatching = { fg = palette.pink },
-            TelescopeSelectionCaret = { fg = palette.lavender },
+            TelescopeSelectionCaret = { fg = palette.blue },
 
             -- Nvim-tree
             NvimTreeFolderName = { fg = palette.pink },
