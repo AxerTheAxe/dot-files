@@ -7,6 +7,9 @@ vim.keymap.set("n", "<leader>o", "o<esc>O")
 vim.keymap.set("n", "<C-u>", "<C-u>zzzz")
 vim.keymap.set("n", "<C-d>", "<C-d>zzzz")
 
+-- Center the cursor when jumping to the bottom of the file
+vim.keymap.set("n", "G", "Gzzzz");
+
 -- For the secection moving commands
 -- https://github.com/fedepujol/move.nvim
 
