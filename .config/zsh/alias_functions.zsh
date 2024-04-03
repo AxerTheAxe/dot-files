@@ -8,7 +8,7 @@ cp() { /usr/bin/cp -r "$@" }
 
 rm() { /usr/bin/rm -rf "$@" }
 
-ls() { /usr/bin/ls --color=auto "$@" }
+ls() { /usr/bin/ls -p --color=auto "$@" }
 
 poweroff() { systemctl poweroff }
 reboot() { systemctl reboot }
