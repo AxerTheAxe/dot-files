@@ -10,6 +10,8 @@ rm() { /usr/bin/rm -rf "$@" }
 
 ls() { /usr/bin/ls --color=auto "$@" }
 
+poweroff() { systemctl poweroff }
+reboot() { systemctl reboot }
 hibernate() { systemctl suspend }
 
 grep() { /usr/bin/grep --color=auto "$@" }
