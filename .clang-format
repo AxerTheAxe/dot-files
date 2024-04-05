@@ -20,7 +20,7 @@ AllowAllArgumentsOnNextLine: true
 AllowAllParametersOfDeclarationOnNextLine: true
 # AllowBreakBeforeNoexceptSpecifier: Never | CLANG 18
 AllowShortBlocksOnASingleLine: Empty
-AllowShortCaseLabelsOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: false
 # AllowShortCompoundRequirementOnASingleLine: true | CLANG 18
 AllowShortEnumsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: Empty
