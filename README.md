@@ -14,7 +14,7 @@ If Stow has been installed, you can run the following commands in a terminal to 
     ```
 2. Run Stow inside of the cloned repository.
     ```sh
-    cd "$HOME"/.dot_files/
+    cd "$HOME/.dot_files/:
     stow ./
     ```
 
