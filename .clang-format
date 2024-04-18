@@ -97,7 +97,7 @@ PointerAlignment: Left
 ReferenceAlignment: Pointer
 QualifierAlignment: Custom
 
-QualifierOrder: ["inline", "static", "volatile", "constexpr", "const", "restrict", "friend", "type"]
+QualifierOrder: ["volatile", "inline", "static", "constexpr", "const", "restrict", "friend", "type"]
 
 ReflowComments: true
 
