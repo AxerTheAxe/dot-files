@@ -18,10 +18,10 @@ AlignTrailingComments: Never
 
 AllowAllArgumentsOnNextLine: true
 AllowAllParametersOfDeclarationOnNextLine: true
-# AllowBreakBeforeNoexceptSpecifier: Never | CLANG 18
+AllowBreakBeforeNoexceptSpecifier: Never
 AllowShortBlocksOnASingleLine: Empty
 AllowShortCaseLabelsOnASingleLine: false
-# AllowShortCompoundRequirementOnASingleLine: true | CLANG 18
+AllowShortCompoundRequirementOnASingleLine: true
 AllowShortEnumsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: Empty
 AllowShortIfStatementsOnASingleLine: Never
@@ -37,7 +37,7 @@ BinPackParameters: true
 
 BitFieldColonSpacing: Both
 
-# BreakAdjacentStringLiterals: false | CLANG 18
+BreakAdjacentStringLiterals: false
 BreakAfterAttributes: Always
 BreakBeforeBinaryOperators: None
 BreakBeforeBraces: Attach
