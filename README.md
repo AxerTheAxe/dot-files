@@ -10,12 +10,12 @@ If Stow has been installed, you can run the following commands in a terminal to 
 
 1. Clone this repository into a folder in your home directory.
     ```sh
-    git clone https://github.com/AxerTheAxe/dot-files.git "$HOME/.dot_files/"
+    git clone https://github.com/AxerTheAxe/dot-files.git "$HOME/.dot_files"
     ```
 2. Run Stow inside of the cloned repository.
     ```sh
-    cd "$HOME/.dot_files/"
-    stow ./
+    cd "$HOME/.dot_files"
+    stow .
     ```
 
 ## Warning
