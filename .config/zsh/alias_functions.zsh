@@ -1,19 +1,19 @@
 #!/usr/bin/env zsh
 
 cd() { __zoxide_z "$@" }
-mkdir() { /usr/bin/mkdir -p "$@" }
-mkcd() { mkdir -p "$@" && cd "$@" }
+mkdir() { command mkdir -p "$@" }
+mkcd() { command mkdir -p "$@" && cd "$@" }
 
-cp() { /usr/bin/cp -r "$@" }
+cp() { command cp -r "$@" }
 
-rm() { /usr/bin/rm -rf "$@" }
+rm() { command rm -rf "$@" }
 
-ls() { /usr/bin/ls --color=auto "$@" }
+ls() { command ls --color=auto "$@" }
 
-poweroff() { systemctl poweroff }
-reboot() { systemctl reboot }
-hibernate() { systemctl suspend }
+poweroff() { command systemctl poweroff }
+reboot() { command systemctl reboot }
+hibernate() { command systemctl suspend }
 
-grep() { /usr/bin/grep --color=auto "$@" }
+grep() { command grep --color=auto "$@" }
 
-nohup() { /usr/bin/nohup "$@" > "$HOME"/.cache/nohup.out > /dev/null 2>&1 }
+nohup() { command nohup "$@" > "$HOME"/.cache/nohup.out > /dev/null 2>&1 }
