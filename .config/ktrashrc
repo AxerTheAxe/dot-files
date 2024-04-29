@@ -1,0 +1,6 @@
+[/home/axer/.local/share/Trash]
+Days=1
+LimitReachedAction=2
+Percent=0.01
+UseSizeLimit=true
+UseTimeLimit=true
