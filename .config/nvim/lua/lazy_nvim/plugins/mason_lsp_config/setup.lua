@@ -13,9 +13,6 @@ require("mason-lspconfig").setup({
         "clangd",
         "neocmake",
 
-        -- C#
-        "omnisharp",
-
         -- Rust
         "rust_analyzer",
 
