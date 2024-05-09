@@ -12,6 +12,7 @@ ls() { command ls --color=auto "$@" }
 
 poweroff() { command systemctl poweroff }
 reboot() { command systemctl reboot }
+reboot-firmware() { command systemctl reboot --firmware-setup }
 hibernate() { command systemctl suspend }
 
 grep() { command grep --color=auto "$@" }
