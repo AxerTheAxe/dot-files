@@ -7,7 +7,6 @@ require("mason-lspconfig").setup({
 
         -- Python
         "pylsp",
-        "jedi_language_server",
 
         -- C/C++
         "clangd",
@@ -18,9 +17,6 @@ require("mason-lspconfig").setup({
 
         -- Shell
         "bashls",
-
-        -- Assembly
-        "asm_lsp",
     },
 
     handlers = {
