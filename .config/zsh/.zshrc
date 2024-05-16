@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-neofetch
+fastfetch
 
 eval "$(zoxide init zsh)"
 
