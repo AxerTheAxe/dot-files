@@ -13,7 +13,7 @@ vim.opt.shortmess = "I"
 
 vim.opt.termguicolors = true
 
-vim.opt.guicursor = nil
+vim.opt.guicursor = ""
 vim.opt.cursorline = true
 
 vim.opt.number = true
