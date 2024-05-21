@@ -8,4 +8,3 @@ export GPG_TTY="$TTY"
 export RUSTUP_HOME="$HOME/.config/rustup"
 
 export QT_QPA_PLATFORMTHEME="qt6ct"
-export QT_STYLE_OVERRIDE="qt6ct"
