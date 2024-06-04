@@ -41,11 +41,13 @@ require("catppuccin").setup({
             UndotreeCurrent = { fg = palette.blue },
 
             -- Mason
+            MasonHeader = { bg = palette.pink },
             MasonHeaderSecondary = { fg = palette.base, bg = palette.pink, style = { "bold" } },
+            MasonHeading = { fg = palette.blue },
             MasonHighlight = { fg = palette.pink },
             MasonHighlightBlock = { bg = palette.pink, fg = palette.base },
             MasonHighlightBlockBold = { bg = palette.pink, fg = palette.base, bold = true },
-            MasonHighlightBlockSecondary = { fg = palette.base, bg = palette.pink }
+            MasonHighlightBlockSecondary = { fg = palette.base, bg = palette.pink },
         }
     end,
 })
