@@ -4,7 +4,7 @@ require("lazy").setup({
     { "nvim-lua/plenary.nvim" },
     { "L3MON4D3/LuaSnip" },
 
-    { "folke/neodev.nvim",                        opts = {} },
+    { "folke/lazydev.nvim",                        opts = {} },
 
     { "nvim-tree/nvim-web-devicons" },
 
