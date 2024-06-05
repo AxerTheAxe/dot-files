@@ -9,5 +9,5 @@ export RUSTUP_HOME="$HOME/.config/rustup"
 
 export QT_QPA_PLATFORMTHEME="qt6ct"
 
-export XCURSOR_THEME=Catppuccin-Mocha-Dark-Cursors
+export XCURSOR_THEME=catppuccin-mocha-dark-cursors
 export XCURSOR_SIZE=24
