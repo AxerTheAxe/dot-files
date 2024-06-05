@@ -6,6 +6,8 @@ require("lazy").setup({
 
     { "folke/lazydev.nvim",                        opts = {} },
 
+    { "saecki/crates.nvim" },
+
     { "nvim-tree/nvim-web-devicons" },
 
     { "catppuccin/nvim",                          name = "catppuccin" },

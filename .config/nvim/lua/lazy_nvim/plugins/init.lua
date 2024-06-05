@@ -1,4 +1,5 @@
 require("lazy_nvim.plugins.catppuccin")
+require("lazy_nvim.plugins.crates")
 require("lazy_nvim.plugins.buffer_store")
 require("lazy_nvim.plugins.lua_line")
 require("lazy_nvim.plugins.telescope")
