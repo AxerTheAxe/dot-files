@@ -44,11 +44,6 @@
         },
 
         {
-            "type": "terminal",
-            "key": "  ",
-        },
-
-        {
             "type": "uptime",
             "key": "  󰅐",
         },
