@@ -18,3 +18,5 @@ hibernate() { command systemctl suspend }
 grep() { command grep --color=auto "$@" }
 
 nohup() { command nohup "$@" > "$HOME"/.cache/nohup.out > /dev/null 2>&1 }
+
+run() { desk-exec --detach --first-only "$@" }
