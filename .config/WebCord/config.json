@@ -27,7 +27,8 @@
                 "fullscreen": true,
                 "notifications": null,
                 "display-capture": true,
-                "background-sync": false
+                "background-sync": false,
+                "speaker-selection": false
             }
         },
         "advanced": {
