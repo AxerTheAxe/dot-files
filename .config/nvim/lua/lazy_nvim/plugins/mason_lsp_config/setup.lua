@@ -10,7 +10,6 @@ require("mason-lspconfig").setup({
 
         -- C/C++
         "clangd",
-        "neocmake",
 
         -- Rust
         "rust_analyzer",
