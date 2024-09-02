@@ -66,4 +66,9 @@ vim.keymap.set("n", "<leader>t", "<cmd>term<CR>")
 -- Exit terminal mode
 vim.keymap.set("t", "<Esc>", "<C-\\><C-n>")
 
+vim.keymap.set("n", "<leader>h", "<C-w>h");
+vim.keymap.set("n", "<leader>j", "<C-w>j");
+vim.keymap.set("n", "<leader>k", "<C-w>k");
+vim.keymap.set("n", "<leader>l", "<C-w>l");
+
 return bindings
