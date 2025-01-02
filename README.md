@@ -1,4 +1,10 @@
-# Dot-Files
+# Archival notice
+
+As a result of my switch from ArchLinux to NixOS, this configuration has been archived.
+
+My new NixOS configuration can be found at [AxerTheAxe/NixOS](https://github.com/AxerTheAxe/nixos).
+
+## Dot-Files
 
 My configuration files for various Linux applications.
 
